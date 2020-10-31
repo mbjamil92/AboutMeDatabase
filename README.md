@@ -4,6 +4,6 @@ This was one of the projects for my grad school where we had to develop a databa
 
 Main SQL concepts used in this project are:
 
-DDL (Data Definition Language)
-DML (Data Manipulation Language)
-DQL (Data Query Language)
+1. DDL (Data Definition Language)
+2. DML (Data Manipulation Language)
+3. DQL (Data Query Language)
